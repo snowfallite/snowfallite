@@ -1,9 +1,9 @@
 
 <div>
   
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=slxugh&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=snowfallite&theme=solarized_dark)
  
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=slxugh&theme=solarized_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snowfallite&theme=solarized_dark)
 
 </div>
 
